@@ -1,5 +1,5 @@
 ---
-title: Nelson Mandela
+title: Nelson Mandela - motivational
 text: 'It always seems impossible until its done.'
 person: Nelson Mandela
 layout: quote
@@ -8,5 +8,6 @@ show_meta: false
 categories:
   - quotes
 tags:
+  - motivational
   - Nelson Mandela
 ---
