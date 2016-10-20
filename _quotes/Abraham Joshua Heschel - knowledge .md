@@ -1,5 +1,5 @@
 ---
-title: Abraham Joshua Heschel
+title: Abraham Joshua Heschel - knowledge
 text: 'Wonder rather than doubt is the root of all knowledge. '
 person: Abraham Joshua Heschel
 layout: quote
