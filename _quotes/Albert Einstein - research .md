@@ -1,5 +1,5 @@
 ---
-title: Albert Einstein - view
+title: Albert Einstein - research
 text: 'If we knew what it was we were doing, it would not be called research, would it? '
 person: Albert Einstein
 layout: quote
@@ -8,6 +8,6 @@ show_meta: false
 categories:
   - quotes
 tags:
-  - view
+  - research
   - Albert Einstein
 ---
