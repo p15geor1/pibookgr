@@ -1,5 +1,5 @@
 ---
-title: Mark Twain 
+title: Mark Twain - motivational
 text: 'The secret of getting ahead is getting started. '
 person: Mark Twain
 layout: quote
@@ -8,6 +8,6 @@ show_meta: false
 categories:
   - quotes
 tags:
-  - method
+  - motivational
   - Mark Twain
 ---
