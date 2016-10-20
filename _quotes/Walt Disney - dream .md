@@ -1,5 +1,5 @@
 ---
-title: Walt Disney
+title: Walt Disney - dream
 text: 'If you can dream it, you can do it.'
 person: Walt Disney
 layout: quote
@@ -8,6 +8,6 @@ show_meta: false
 categories:
   - quotes
 tags:
-  - method
+  - dream
   - Walt Disney
 ---
