@@ -30,6 +30,6 @@
 
 ![Screenshot of serious game Gem game. Link: https://postimg.org/image/ua5ksmyi9/] (pibookgr/images/ch01/SeriousGame2.md)
 
-![Pixabay photo.terminal. Link: https://postimg.org/image/ylvp2kw1z/] (pibookgr/images/ch01/terminal.md)
+![Pixabay image.terminal. Link: https://postimg.org/image/ylvp2kw1z/] (pibookgr/images/ch01/terminal.md)
 
-![Pixabay photo. illiteracy .Link: https://postimg.org/image/8ct1w3n1r/] (pibookgr/images/ch01/illiteracy.md)
+![Pixabay image. illiteracy .Link: https://postimg.org/image/8ct1w3n1r/] (pibookgr/images/ch01/illiteracy.md)
