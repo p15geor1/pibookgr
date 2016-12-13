@@ -26,10 +26,10 @@
 
 ![Bill English with the oNLine System (NLS); late 1960s. Image: Courtesy of SRI International and Computer History Museum. Link: http://www.computerhistory.org/atchm/wp-content/uploads/2013/07/English-ergo-setup-500004647-03-01.jpg](/manuscript/images/ch01/nls.jpg)
 
-![Screenshot of serious game Ceasar 1942.Original game 1942. https://postimg.org/image/vmqt15cjl/ ](pibookgr/images/ch01/SeriousGame.md)
+![Screenshot of serious game Ceasar 1942.Original game 1942.Link: https://postimg.org/image/vmqt15cjl/ ](pibookgr/images/ch01/SeriousGame.md)
 
-![Screenshot of serious game Gem game.https://postimg.org/image/ua5ksmyi9/] (pibookgr/images/ch01/SeriousGame2.md)
+![Screenshot of serious game Gem game. Link: https://postimg.org/image/ua5ksmyi9/] (pibookgr/images/ch01/SeriousGame2.md)
 
-![Pixabay photo.terminal.https://postimg.org/image/ylvp2kw1z/] (pibookgr/images/ch01/terminal.md)
+![Pixabay photo.terminal. Link: https://postimg.org/image/ylvp2kw1z/] (pibookgr/images/ch01/terminal.md)
 
-![Pixabay photo] (pibookgr/images/ch01/illiteracy.md)
+![Pixabay photo. illiteracy .Link: https://postimg.org/image/8ct1w3n1r/] (pibookgr/images/ch01/illiteracy.md)
