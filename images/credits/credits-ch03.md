@@ -37,3 +37,9 @@
 ![iPod touch 5th generation in Blue. Courtesy of en.wikipedia.org, Creative Commons Attribution ShareAlike 3.0.](/manuscript/images/ch03/IPod_touch_2G.png)
 
 ![Screenshot of iTunes application. Courtesy of guidebookgallery.org](/manuscript/images/ch03/itunes3.png)
+
+![Pixabay image. input. Link:https://postimg.org/image/t6rh462af/ ] (pibookgr/images/ch03/input.md)
+
+![Pixabay image. output. Link: https://postimg.org/image/mr0umdwn7/] (pibookgr/images/ch03/output.md)
+
+![Pixabay image. tablet. Link: https://postimg.org/image/9t548zlpf/ ] (pibookgr/images/ch03/tablet.md)
