@@ -35,3 +35,9 @@
 ![Illustration of a stove top designed according to what Don Norman calls "naturally mapped" design. Courtesy of pibook.gr Licence: Attribution-NonCommercial-ShareAlike 2.0](/manuscript/images/ch02/mapping-principle.jpg)
 
 ![The typewriter keyboard layout that Dvorak & Dealey patented."KB DSKpatent". Licensed under CC BY-SA 3.0 via Wikipedia - https://en.wikipedia.org/wiki/File:KB_DSKpatent.svg#/media/File:KB_DSKpatent.svg](/manuscript/images/ch02/dvorak-keyboard-alt01.png)
+
+![Pixabay image. balance. Link:https://postimg.org/image/q4ssq73y5/] (pibookgr/images/ch02/balance.md)
+
+![Pixabay image. noWrong. Link:https://postimg.org/image/gwhefzcpz/] (pibookgr/images/ch02/noWrong.md)
+
+![Pixabay image. plan. Link:https://postimg.org/image/yn21w0atf/] (pibookgr/images/ch02/plan.md)
