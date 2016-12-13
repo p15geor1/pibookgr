@@ -25,3 +25,11 @@
 ![The Xerox Star 8010 "Dandelion". Courtesy of digibarn.com. Creative Commons Attribution-Noncommercial 3.0 License. Link:http://www.digibarn.com/collections/systems/xerox-8010/xerox-star-8010-large.jpg](/manuscript/images/ch01/xerox-star.jpg)
 
 ![Bill English with the oNLine System (NLS); late 1960s. Image: Courtesy of SRI International and Computer History Museum. Link: http://www.computerhistory.org/atchm/wp-content/uploads/2013/07/English-ergo-setup-500004647-03-01.jpg](/manuscript/images/ch01/nls.jpg)
+
+![Screenshot of serious game Ceasar 1942.Original game 1942. https://postimg.org/image/vmqt15cjl/ ](pibookgr/images/ch01/SeriousGame.md)
+
+![Screenshot of serious game Gem game.https://postimg.org/image/ua5ksmyi9/] (pibookgr/images/ch01/SeriousGame2.md)
+
+![Pixabay photo.terminal.https://postimg.org/image/ylvp2kw1z/] (pibookgr/images/ch01/terminal.md)
+
+![Pixabay photo] (pibookgr/images/ch01/illiteracy.md)
